@@ -1,0 +1,17 @@
+{
+    "products": [
+        { "_id": "Sneaker2", "title": "Sneaker 2", "image": "/jordans/2.png", "description": "S", "availableSizes": ["S"], "price": 16},
+        { "_id": "Sneaker3", "title": "Sneaker 3", "image": "/jordans/3.png", "description": "M", "availableSizes": ["M"], "price": 17},
+        { "_id": "Sneaker4", "title": "Sneaker 4", "image": "/jordans/4.png", "description": "L", "availableSizes": ["L"], "price": 13},
+        { "_id": "Sneaker5", "title": "Sneaker 5", "image": "/jordans/5.png", "description": "XL", "availableSizes": ["XL", "S"], "price": 19},
+        { "_id": "Sneaker6", "title": "Sneaker 6", "image": "/jordans/6.png", "description": "XXL", "availableSizes": ["XXL"], "price": 25},
+        { "_id": "Sneaker7", "title": "Sneaker 7", "image": "/jordans/7.png", "description": "XS", "availableSizes": ["XS, S, M"], "price": 19},
+        { "_id": "Sneaker8", "title": "Sneaker 8", "image": "/jordans/8.png", "description": "S", "availableSizes": ["S"], "price": 16},
+        { "_id": "Sneaker9", "title": "Sneaker 9", "image": "/jordans/9.png", "description": "M", "availableSizes": ["M"], "price": 17},
+        { "_id": "Sneaker10", "title": "Sneaker 10", "image": "/jordans/10.png", "description": "L", "availableSizes": ["L"], "price": 13},
+        { "_id": "Sneaker11", "title": "Sneaker 11", "image": "/jordans/11.png", "description": "XL", "availableSizes": ["XL", "S"], "price": 19},
+        { "_id": "Sneaker12", "title": "Sneaker 12", "image": "/jordans/12.png", "description": "XXL", "availableSizes": ["XXL"], "price": 25},
+        { "_id": "Sneaker13", "title": "Sneaker 13", "image": "/jordans/13.png", "description": "XXL", "availableSizes": ["XXL"], "price": 25}
+    ]
+}
+
